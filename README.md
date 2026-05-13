@@ -13,14 +13,6 @@ This is an auto push repository for Baekjoon Online Judge created with [Baekjoon
 
 ---
 
-### 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=riekim&show_icons=true&theme=radical&hide_border=true" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=riekim&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
-
----
-
 ### 📂 Repository Structure
 
 The repository is organized by problem levels, with each folder containing the solution and a detailed summary of the execution results (Time, Memory).
